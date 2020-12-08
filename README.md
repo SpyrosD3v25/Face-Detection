@@ -4,7 +4,7 @@ A software for face detection!
 ----------------------------INSTALATION#
 I assume you have pip and python3.x on your computer.
 
-$LINUX$
+$LINUX$\n
 pip3 install face_recognition
 pip3 install opencv-python
 pip3 install numpy
