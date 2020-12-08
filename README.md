@@ -8,11 +8,11 @@ $LINUX$
 pip3 install face_recognition
 pip3 install opencv-python
 pip3 install numpy
-*MAC*
+\MAC/
 pip3 install face_recognition
 pip3 install opencv-python
 pip3 install numpy
-_WINDOWS_
+=WINDOWS=
 pip install face_recognition
 pip install opencv-python
 pip install numpy
