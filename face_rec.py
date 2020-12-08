@@ -1,4 +1,4 @@
-import face_recognition as fr
+Mimport face_recognition as fr
 import os
 import cv2
 import face_recognition
@@ -70,6 +70,6 @@ def classify_face(im):
             return face_names 
 
 
-print(classify_face("test.jpg"))
+print(classify_face("IMAGE.jpeg"))
 
 
